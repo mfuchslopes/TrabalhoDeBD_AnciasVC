@@ -16,7 +16,7 @@ Este código realiza a **verificação automática de dependências funcionais**
    Após a instalação, rode o comando:
    
    ```bash
-   node verificador_dependencias.js
+   node veficador_dependencias.js
 
 5. **Visualizar os resultados:**  
    As dependências funcionais identificadas serão exibidas diretamente no terminal.
